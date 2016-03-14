@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>cloud.png</file>
+        <file>flower.png</file>
+        <file>bee.jpg</file>
+        <file>hive.jpg</file>
+        <file>cover_bee.jpeg</file>
+        <file>cover_hive.jpg</file>
+        <file>instruc_background.jpg</file>
+        <file>sad_bee.jpg</file>
+        <file>factory.png</file>
+        <file>child.jpg</file>
+        <file>score.png</file>
+        <file>instruc_text.png</file>
+        <file>skygrass.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bgmsound.mp3</file>
+        <file>bgm.wav</file>
+    </qresource>
+</RCC>
